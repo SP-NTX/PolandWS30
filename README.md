@@ -1,7 +1,10 @@
 ## PolandWS30
 # WS3.0 Scenery of Poland - done in VPB
  48N,13Ex55N,25E
- Everything done in 24 hours
+ 
+ 7 LOD
+ 
+ 1,9GB download
  
  
 Data:
